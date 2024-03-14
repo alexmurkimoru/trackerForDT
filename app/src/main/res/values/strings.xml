@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">rckerForDT</string>
+    <string name="name_text">Название</string>
+    <string name="description_text">Описание</string>
+    <string name="priority_text">Выберите приоритет</string>
+    <string name="type_text">Тип привычки</string>
+    <string name="counts_text">Установить периодичность</string>
+    <string name="count_per_period_text">раз в</string>
+    <string name="input_text">Введите...</string>
+    <string name="dialog_title">Выберите категорию привычки</string>
+    <string name="type_button_titile">Выбрать...</string>
+    <string name="warning">Заполните обязательные поля</string>
+    <string-array name="priority">
+        <item>Нет приоритетности</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="periods">
+        <item>час</item>
+        <item>день</item>
+        <item>неделю</item>
+        <item>месяц</item>
+        <item>год</item>
+    </string-array>
+</resources>

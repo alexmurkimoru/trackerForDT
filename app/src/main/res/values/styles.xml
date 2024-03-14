@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextAppearance.AppCompat.FieldName">
+        <item name="android:textSize">28sp</item>
+        <item name="android:layout_marginLeft">12dp</item>
+        <item name="android:layout_marginTop">20dp</item>
+        <item name="android:layout_marginBottom">15dp</item>
+        <item name="android:textColor">@color/normal_grey</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="InputTextStyle">
+        <item name="android:layout_marginLeft">25dp</item>
+        <item name="android:layout_marginRight">25dp</item>
+        <item name="android:background">@drawable/input_text_backround</item>
+        <item name="android:textColor">@color/dark_purple</item>
+        <item name="hintTextColor">@color/vey_light_gray</item>
+        <item name="android:hint">@string/input_text</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+    <style name="Base.Widget.AppCompat.Spinner.Habits">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@color/dark_purple</item>
+        <item name="android:layout_marginRight">5dp</item>
+        <item name="android:layout_marginLeft">5dp</item>
+        <item name="android:paddingBottom">15dp</item>
+        <item name="android:paddingTop">15dp</item>
+    </style>
+    <style name="TextAppearance.AppCompat.SimpleText">
+        <item name="android:textColor">@color/dark_purple</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:layout_marginRight">5dp</item>
+        <item name="android:layout_marginLeft">5dp</item>
+    </style>
+    <style name="Base.Widget.AppCompat.Button.HB">
+        <item name="android:background">@drawable/radio_selector</item>
+        <item name="android:textColor">@drawable/radio_text_selector</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+    <style name="Base.Widget.AppCompat.Button.Main">
+        <item name="android:background">@drawable/main_button_selector</item>
+        <item name="android:textColor">@drawable/main_button_text_selector</item>
+        <item name="android:layout_height">70dp</item>
+        <item name="android:layout_width">70dp</item>
+        <item name="android:textSize">28dp</item>
+        <item name="android:layout_margin">15dp</item>
+    </style>
+
+</resources>
